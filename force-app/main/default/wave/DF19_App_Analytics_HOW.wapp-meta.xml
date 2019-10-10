@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>This app is for the DF19 App Analytics hands on workshop. This shows the completed work</description>
+    <folder>DF19_App_Analytics_HOW</folder>
+    <masterLabel>DF19 App Analytics HOW</masterLabel>
+    <shares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>test-zafmrqkjtftu@example.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </shares>
+</WaveApplication>
