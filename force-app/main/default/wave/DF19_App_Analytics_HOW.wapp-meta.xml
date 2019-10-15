@@ -5,8 +5,7 @@
     <masterLabel>DF19 App Analytics HOW</masterLabel>
     <shares>
         <accessLevel>Manage</accessLevel>
-<!--        <sharedTo>test-zafmrqkjtftu@example.com</sharedTo> -->
-        <sharedTo>df9aahow@cairlinn.com</sharedTo>
+        <sharedTo>test-zafmrqkjtftu@example.com</sharedTo>
         <sharedToType>User</sharedToType>
     </shares>
 </WaveApplication>
