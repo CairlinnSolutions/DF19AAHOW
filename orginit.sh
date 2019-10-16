@@ -1,7 +1,6 @@
 #!/bin/bash
-
+# using scratch org snapshot
 sfdx force:org:create -f config/project-scratch-def.json -a ADK --setdefaultusername -d 1
-
 #not needed since using scratch org snapshot
 #sfdx force:source:push 
 
