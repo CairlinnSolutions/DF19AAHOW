@@ -1,19 +1,4 @@
-// definition that uses snapshot
 {
   "orgName": "DF19 App Analytics Workshop",
   "snapshot": "aasnap02"
 }
-
-// original scratch org definition that enables EA
-// {
-//   "orgName": "DF19 App Analytics Workshop",
-//   "edition": "Developer",
-//   "features": [
-//     "EinsteinAnalyticsPlus"
-//   ],
-//   "settings": {
-//     "orgPreferenceSettings": {
-//       "s1DesktopEnabled": true
-//     }
-//   }
-// }
