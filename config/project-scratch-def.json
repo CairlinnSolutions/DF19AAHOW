@@ -1,12 +1,4 @@
 {
   "orgName": "DF19 App Analytics Workshop",
-  "edition": "Developer",
-  "features": [
-    "EinsteinAnalyticsPlus"
- ],
- "settings": {
-   "orgPreferenceSettings": {
-     "s1DesktopEnabled": true
-   }
- }
+  "snapshot": "aasnap02"
 }
