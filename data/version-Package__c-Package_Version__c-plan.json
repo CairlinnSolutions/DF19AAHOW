@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Package__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "version-Package__cs.json"
+        ]
+    },
+    {
+        "sobject": "Package_Version__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "version-Package_Version__cs.json"
+        ]
+    }
+]

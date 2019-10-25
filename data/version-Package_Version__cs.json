@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Package_Version__c",
+                "referenceId": "Package_Version__cRef1"
+            },
+            "Name": "CaseTimerv1",
+            "Version_ID__c": "04t1U000007c3z1HOW",
+            "Version__c": "v1",
+            "Version_Number__c": "1",
+            "Release_Date__c": "2019-06-05",
+            "Package__c": "@Package__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Package_Version__c",
+                "referenceId": "Package_Version__cRef2"
+            },
+            "Name": "CaseTimerv2",
+            "Version_ID__c": "04t1U000007c3NOHOW",
+            "Version__c": "v2",
+            "Version_Number__c": "2",
+            "Release_Date__c": "2019-09-04",
+            "Package__c": "@Package__cRef1"
+        }
+    ]
+}

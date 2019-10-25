@@ -5,7 +5,7 @@ sfdx force:org:create -f config/project-scratch-def.json -a ADK --setdefaultuser
 
 #if not using snapshot, need to break up the build
 # deploy the basic configuration
-#sfdx force:source:deploy -m "CustomObject, PermissionSet, CustomApplication, CustomTab, FlexiPage, ApexClass, Layout“ -u aamstr00
+#sfdx force:source:deploy -m "CustomObject, PermissionSet, CustomApplication, CustomTab, FlexiPage, ApexClass, Layout" -u aamstr00
 # assign EA admin to admin user
 #sfdx force:user:permset:assign -n EinsteinAnalyticsPlusAdmin -u aamstr00
 # assign DF19 LMA permset to admin user
@@ -13,9 +13,11 @@ sfdx force:org:create -f config/project-scratch-def.json -a ADK --setdefaultuser
 # assign DF19 LMA permset to EA integration user using anonymous apex
 #sfdx force:apex:execute -f ./config/assign-lma-permset.apex -u aamstr00
 # deploy EA components
-#sfdx force:source:deploy -u aamstr00 -m "WaveDataflow, WaveDataset, WaveLens, WaveApplication“
-#
-#
+#sfdx force:source:deploy -u aamstr00 -m "WaveDataflow, WaveDataset, WaveLens, WaveApplication, WaveDashboard"
+# load sample accounts
+#sfdx force:data:tree:import -u aamstr00 -p data/account-Account-plan.json
+# load packages and package versions
+#sfdx force:data:tree:import -u aamstr00 -p data/version-Package__c-Package_Version__c-plan.json
 
 
 

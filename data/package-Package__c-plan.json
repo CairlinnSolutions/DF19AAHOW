@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Package__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "package-Package__cs.json"
+        ]
+    }
+]
