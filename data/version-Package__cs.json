@@ -8,6 +8,14 @@
             "Name": "CaseTimer",
             "Package_ID__c": "0331U000000EHq2HOW",
             "Latest_Version__c": "2"
+        },
+        {
+            "attributes": {
+                "type": "Package__c",
+                "referenceId": "Package__cRef2"
+            },
+            "Name": "InnovationHub",
+            "Package_ID__c": "0331t000000XiTk"
         }
     ]
 }

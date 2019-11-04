@@ -5,6 +5,18 @@
                 "type": "Package_Version__c",
                 "referenceId": "Package_Version__cRef1"
             },
+            "Name": "CaseTimerv2",
+            "Version_ID__c": "04t1U000007c3NOHOW",
+            "Version__c": "v2",
+            "Version_Number__c": "2",
+            "Release_Date__c": "2019-09-04",
+            "Package__c": "@Package__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Package_Version__c",
+                "referenceId": "Package_Version__cRef2"
+            },
             "Name": "CaseTimerv1",
             "Version_ID__c": "04t1U000007c3z1HOW",
             "Version__c": "v1",
@@ -15,14 +27,68 @@
         {
             "attributes": {
                 "type": "Package_Version__c",
-                "referenceId": "Package_Version__cRef2"
+                "referenceId": "Package_Version__cRef3"
             },
-            "Name": "CaseTimerv2",
-            "Version_ID__c": "04t1U000007c3NOHOW",
+            "Name": "InnovHub v1",
+            "Version_ID__c": "04t1t000003LcUT",
+            "Version__c": "v1",
+            "Version_Number__c": "1",
+            "Package__c": "@Package__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Package_Version__c",
+                "referenceId": "Package_Version__cRef4"
+            },
+            "Name": "InnovHub v3.1",
+            "Version_ID__c": "04t1t000003DGpq",
+            "Version__c": "v3.1",
+            "Version_Number__c": "3.1",
+            "Package__c": "@Package__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Package_Version__c",
+                "referenceId": "Package_Version__cRef5"
+            },
+            "Name": "InnovHub v5",
+            "Version_ID__c": "04t1t000000pFzF",
+            "Version__c": "v5",
+            "Version_Number__c": "5",
+            "Package__c": "@Package__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Package_Version__c",
+                "referenceId": "Package_Version__cRef6"
+            },
+            "Name": "InnovHub v3",
+            "Version_ID__c": "04t1t000001jfAj",
+            "Version__c": "v3",
+            "Version_Number__c": "3",
+            "Package__c": "@Package__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Package_Version__c",
+                "referenceId": "Package_Version__cRef7"
+            },
+            "Name": "InnovHub v2",
+            "Version_ID__c": "04t1t000003DHgL",
             "Version__c": "v2",
             "Version_Number__c": "2",
-            "Release_Date__c": "2019-09-04",
-            "Package__c": "@Package__cRef1"
+            "Package__c": "@Package__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Package_Version__c",
+                "referenceId": "Package_Version__cRef8"
+            },
+            "Name": "InnovHub v4",
+            "Version_ID__c": "04t1t000003Ld8R",
+            "Version__c": "v4",
+            "Version_Number__c": "4",
+            "Package__c": "@Package__cRef2"
         }
     ]
 }
