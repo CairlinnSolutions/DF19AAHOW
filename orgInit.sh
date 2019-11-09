@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # using scratch org snapshot
-sfdx force:org:create -f config/project-scratch-def.json -a ADK -s -d 5 -w 10
+sfdx force:org:create -f config/project-scratch-def.json -a ADK -s -d 30 -w 10
 
 # if not using snapshot, need to break up the build
 # (comment line 4, uncomment lines 9,11,13,15,17,19,21,23)

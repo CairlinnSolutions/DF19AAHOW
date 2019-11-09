@@ -3,6 +3,6 @@
     <content xsi:nil="true"/>
     <application>DF19_App_Analytics_HOW</application>
     <datasets>loglma</datasets>
-    <masterLabel>SAMPLE Top Customers by Users</masterLabel>
-    <visualizationType>hbar</visualizationType>
+    <masterLabel>SAMPLE Attrition Risk</masterLabel>
+    <visualizationType>comparisontable</visualizationType>
 </WaveLens>

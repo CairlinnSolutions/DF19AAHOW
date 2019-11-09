@@ -3,6 +3,6 @@
     <content xsi:nil="true"/>
     <application>DF19_App_Analytics_HOW</application>
     <datasets>loglma</datasets>
-    <masterLabel>Adoption Rate</masterLabel>
+    <masterLabel>SAMPLE Adoption Rate</masterLabel>
     <visualizationType>line</visualizationType>
 </WaveLens>
