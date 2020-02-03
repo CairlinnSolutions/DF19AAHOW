@@ -6,7 +6,7 @@
     <label>Account</label>
     <referenceTo>Account</referenceTo>
     <relationshipLabel>Licenses</relationshipLabel>
-    <relationshipName>Licenses</relationshipName>
+    <relationshipName>Accounts</relationshipName>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Lookup</type>

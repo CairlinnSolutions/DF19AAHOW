@@ -6,7 +6,7 @@
     <label>Package Version</label>
     <referenceTo>Package_Version__c</referenceTo>
     <relationshipLabel>Licenses</relationshipLabel>
-    <relationshipName>Licenses</relationshipName>
+    <relationshipName>Package_Versions</relationshipName>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Lookup</type>

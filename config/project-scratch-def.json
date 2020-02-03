@@ -1,4 +1,15 @@
 {
-  "orgName": "DF19 App Analytics Workshop",
-  "snapshot": "aasnap00"
+  "orgName": "App Analytics Workshop",
+  "edition": "Developer",
+  "features": [
+    "EinsteinAnalyticsPlus"
+ ],
+ "settings": {
+   "lightningExperienceSettings": {
+     "enableS1DesktopEnabled": true
+   },
+    "analyticsSettings": {
+      "enableWaveReplication": true
+    }
+  }
 }

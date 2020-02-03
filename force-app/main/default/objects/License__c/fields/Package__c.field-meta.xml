@@ -6,7 +6,7 @@
     <label>Package</label>
     <referenceTo>Package__c</referenceTo>
     <relationshipLabel>Licenses</relationshipLabel>
-    <relationshipName>Licenses</relationshipName>
+    <relationshipName>Packages</relationshipName>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Lookup</type>
