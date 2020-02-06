@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "license-Accounts.json"
+        ]
+    },
+    {
+        "sobject": "License__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "license-License__cs.json"
+        ]
+    }
+]

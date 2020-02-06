@@ -4,11 +4,11 @@
         <headerColor>#0070D2</headerColor>
         <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
-    <description>Pseudo LMA for DF19 App Analytics HOW</description>
+    <description>Pseudo LMA for App Analytics HOW</description>
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
-    <label>LMA - DF19</label>
+    <label>LMA - Demo</label>
     <navType>Standard</navType>
     <tabs>standard-Account</tabs>
     <tabs>License__c</tabs>

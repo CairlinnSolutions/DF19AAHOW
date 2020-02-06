@@ -1,0 +1,232 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef1"
+            },
+            "Instance__c": "CS9",
+            "License_Status__c": "Trial",
+            "Licensed_Seats__c": "31",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1911",
+            "Account__c": "@AccountRef1"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef2"
+            },
+            "Instance__c": "NA8",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "9",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1914",
+            "Account__c": "@AccountRef4"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef3"
+            },
+            "Instance__c": "NA1",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "8",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1915",
+            "Account__c": "@AccountRef5"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef4"
+            },
+            "Instance__c": "NA8",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "20",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1909",
+            "Account__c": "@AccountRef6"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef5"
+            },
+            "Instance__c": "NA3",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "50",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1917",
+            "Account__c": "@AccountRef7"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef6"
+            },
+            "Instance__c": "NA8",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "50",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1918",
+            "Account__c": "@AccountRef8"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef7"
+            },
+            "Instance__c": "NA8",
+            "License_Status__c": "Uninstalled",
+            "Licensed_Seats__c": "30",
+            "Org_Edition__c": "Developer Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1902",
+            "Account__c": "@AccountRef9"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef8"
+            },
+            "Instance__c": "NA1",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "Site License",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1901",
+            "Account__c": "@AccountRef10"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef9"
+            },
+            "Instance__c": "NA1",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "30",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1919",
+            "Account__c": "@AccountRef11"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef10"
+            },
+            "Instance__c": "NA3",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "15",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1913",
+            "Account__c": "@AccountRef12"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef11"
+            },
+            "Instance__c": "CS1",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "Site License",
+            "Org_Edition__c": "Unlimited Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1912",
+            "Account__c": "@AccountRef13"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef12"
+            },
+            "Instance__c": "NA1",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "Site License",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1906",
+            "Account__c": "@AccountRef14"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef13"
+            },
+            "Instance__c": "NA3",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "10",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1904",
+            "Account__c": "@AccountRef15"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef14"
+            },
+            "Instance__c": "NA1",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "20",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1916",
+            "Account__c": "@AccountRef16"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef15"
+            },
+            "Instance__c": "CS10",
+            "License_Status__c": "Trial",
+            "Licensed_Seats__c": "40",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1903",
+            "Account__c": "@AccountRef17"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef16"
+            },
+            "Instance__c": "NA1",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "10",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1907",
+            "Account__c": "@AccountRef18"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef17"
+            },
+            "Instance__c": "NA3",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "15",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1908",
+            "Account__c": "@AccountRef19"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef18"
+            },
+            "Instance__c": "NA8",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "20",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1905",
+            "Account__c": "@AccountRef20"
+        },
+        {
+            "attributes": {
+                "type": "License__c",
+                "referenceId": "License__cRef19"
+            },
+            "Instance__c": "NA10",
+            "License_Status__c": "Active",
+            "Licensed_Seats__c": "25",
+            "Org_Edition__c": "Enterprise Edition",
+            "Subscriber_Org_ID__c": "00D000000DF1910",
+            "Account__c": "@AccountRef21"
+        }
+    ]
+}
