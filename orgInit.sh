@@ -1,6 +1,6 @@
 #!/bin/bash
 # create scratch org using regular definition file
-sfdx force:org:create -a aademo -f config/project-scratch-def.json -d 5 -w 10
+sfdx force:org:create -a aademo -f config/project-scratch-def.json -d 30 -w 10
 # deploy the basic configuration
 sfdx force:source:deploy -u aademo -m "CustomObject, PermissionSet, CustomApplication, CustomTab, FlexiPage, ApexClass, Layout"
 # assign EA admin to admin user
