@@ -1,8 +1,7 @@
 # Salesforce App Analytics
 
-This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.
+This is a sample training org for Salesforce App Analytics. 
 
-## What's included
-
-
+It is intended to be used with this Hands On Workshop 
+https://sfdx-isv.github.io/app-analytics-workshop/
 
